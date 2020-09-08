@@ -121,18 +121,23 @@ ul {
     padding-inline-start: 40px;
 }
 
-/* .wrapper
+.wrapper
 {
     width:100%;
     padding-top: 20px;
     text-align:center;
-} */
+}
 
 .casestudies
 {
     width:90%;
     text-align: center;
     margin:0px auto;
+}
+
+.casestudies img
+{
+    width: 250px;
 }
 
 .slick-slide
